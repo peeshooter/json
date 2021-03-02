@@ -1,0 +1,8 @@
+{
+    "name": "phoenix/json",
+    "description": "json handle",
+    "type": "1",
+    "require": {
+        "php": "^7.4"
+    }
+}
